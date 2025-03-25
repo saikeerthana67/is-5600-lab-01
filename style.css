@@ -141,7 +141,7 @@ body {
    background-image: url('./images/comment.png');
  }
 
-
+/*main*/
  main {
    flex-wrap: wrap;
    gap: 10px;
